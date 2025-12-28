@@ -1,0 +1,5 @@
+{
+  "name": "Exam Shuffler",
+  "description": "A client-side application to parse, review, and shuffle exam questions from .docx files, generating multiple randomized versions with answer keys.",
+  "requestFramePermissions": []
+}
